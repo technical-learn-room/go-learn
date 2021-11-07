@@ -15,3 +15,4 @@ func main() {
 - [005. 연산자](https://github.com/technical-learn-room/go-learn/blob/main/005.%20%EC%97%B0%EC%82%B0%EC%9E%90.md)  
 - [006. 제어문 [미완]](https://github.com/technical-learn-room/go-learn/blob/main/006.%20%EC%A0%9C%EC%96%B4%EB%AC%B8.md)  
 - [007. 반복문](https://github.com/technical-learn-room/go-learn/blob/main/007.%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)  
+- [008. 함수](https://github.com/technical-learn-room/go-learn/blob/main/008.%20%ED%95%A8%EC%88%98.md)  
