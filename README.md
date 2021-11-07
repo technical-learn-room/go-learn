@@ -25,3 +25,4 @@ func main() {
 - [015. 사전 타입](https://github.com/technical-learn-room/go-learn/blob/main/015.%20%EC%82%AC%EC%A0%84%20%ED%83%80%EC%9E%85.md)  
 - [016. 형변환](https://github.com/technical-learn-room/go-learn/blob/main/016.%20%ED%98%95%EB%B3%80%ED%99%98.md)  
 - [017. 인터페이스 타입](https://github.com/technical-learn-room/go-learn/blob/main/017.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%9E%85.md)  
+- [018. 에러 핸들링](https://github.com/technical-learn-room/go-learn/blob/main/018.%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81.md)  
