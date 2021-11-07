@@ -21,3 +21,4 @@ func main() {
 - [011. 배열 타입](https://github.com/technical-learn-room/go-learn/blob/main/011.%20%EB%B0%B0%EC%97%B4%20%ED%83%80%EC%9E%85.md)  
 - [012. 포인터 타입](https://github.com/technical-learn-room/go-learn/blob/main/012.%20%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%83%80%EC%9E%85.md)  
 - [013. 구조체 타입](https://github.com/technical-learn-room/go-learn/blob/main/013.%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%ED%83%80%EC%9E%85.md)  
+- [014. 슬라이스 타입](https://github.com/technical-learn-room/go-learn/blob/main/014.%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%9E%85.md)  
