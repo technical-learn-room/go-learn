@@ -23,3 +23,4 @@ func main() {
 - [013. 구조체 타입](https://github.com/technical-learn-room/go-learn/blob/main/013.%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%ED%83%80%EC%9E%85.md)  
 - [014. 슬라이스 타입](https://github.com/technical-learn-room/go-learn/blob/main/014.%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%9E%85.md)  
 - [015. 사전 타입](https://github.com/technical-learn-room/go-learn/blob/main/015.%20%EC%82%AC%EC%A0%84%20%ED%83%80%EC%9E%85.md)  
+- [016. 형변환](https://github.com/technical-learn-room/go-learn/blob/main/016.%20%ED%98%95%EB%B3%80%ED%99%98.md)  
