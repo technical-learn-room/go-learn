@@ -20,3 +20,4 @@ func main() {
 - [010. 문자열 타입](https://github.com/technical-learn-room/go-learn/blob/main/010.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%83%80%EC%9E%85.md)  
 - [011. 배열 타입](https://github.com/technical-learn-room/go-learn/blob/main/011.%20%EB%B0%B0%EC%97%B4%20%ED%83%80%EC%9E%85.md)  
 - [012. 포인터 타입](https://github.com/technical-learn-room/go-learn/blob/main/012.%20%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%83%80%EC%9E%85.md)  
+- [013. 구조체 타입](https://github.com/technical-learn-room/go-learn/blob/main/013.%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%ED%83%80%EC%9E%85.md)  
