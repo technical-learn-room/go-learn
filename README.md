@@ -1,6 +1,8 @@
 # Go
 
 ```go
+package main
+
 import "fmt"
 
 func main() {
@@ -17,12 +19,12 @@ func main() {
 - [007. 반복문](https://github.com/technical-learn-room/go-learn/blob/main/007.%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)  
 - [008. 함수](https://github.com/technical-learn-room/go-learn/blob/main/008.%20%ED%95%A8%EC%88%98.md)  
 - [009. 선언 위치에 따른 생명주기](https://github.com/technical-learn-room/go-learn/blob/main/009.%20%EC%84%A0%EC%96%B8%20%EC%9C%84%EC%B9%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)  
-- [010. 문자열 타입](https://github.com/technical-learn-room/go-learn/blob/main/010.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%83%80%EC%9E%85.md)  
-- [011. 배열 타입](https://github.com/technical-learn-room/go-learn/blob/main/011.%20%EB%B0%B0%EC%97%B4%20%ED%83%80%EC%9E%85.md)  
-- [012. 포인터 타입](https://github.com/technical-learn-room/go-learn/blob/main/012.%20%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%83%80%EC%9E%85.md)  
-- [013. 구조체 타입](https://github.com/technical-learn-room/go-learn/blob/main/013.%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%ED%83%80%EC%9E%85.md)  
-- [014. 슬라이스 타입](https://github.com/technical-learn-room/go-learn/blob/main/014.%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%9E%85.md)  
-- [015. 사전 타입](https://github.com/technical-learn-room/go-learn/blob/main/015.%20%EC%82%AC%EC%A0%84%20%ED%83%80%EC%9E%85.md)  
-- [016. 형변환](https://github.com/technical-learn-room/go-learn/blob/main/016.%20%ED%98%95%EB%B3%80%ED%99%98.md)  
-- [017. 인터페이스 타입](https://github.com/technical-learn-room/go-learn/blob/main/017.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%9E%85.md)  
-- [018. 에러 핸들링](https://github.com/technical-learn-room/go-learn/blob/main/018.%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81.md)  
+- [010. String Type](https://github.com/technical-learn-room/go-learn/blob/main/010.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%83%80%EC%9E%85.md)  
+- [011. Array Type](https://github.com/technical-learn-room/go-learn/blob/main/011.%20%EB%B0%B0%EC%97%B4%20%ED%83%80%EC%9E%85.md)  
+- [012. Pointer Type](https://github.com/technical-learn-room/go-learn/blob/main/012.%20%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%83%80%EC%9E%85.md)  
+- [013. Structure Type](https://github.com/technical-learn-room/go-learn/blob/main/013.%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%ED%83%80%EC%9E%85.md)  
+- [014. Slice Type](https://github.com/technical-learn-room/go-learn/blob/main/014.%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%9E%85.md)  
+- [015. Map Type](https://github.com/technical-learn-room/go-learn/blob/main/015.%20%EC%82%AC%EC%A0%84%20%ED%83%80%EC%9E%85.md)  
+- [016. Casting](https://github.com/technical-learn-room/go-learn/blob/main/016.%20%ED%98%95%EB%B3%80%ED%99%98.md)  
+- [017. Interface Type](https://github.com/technical-learn-room/go-learn/blob/main/017.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%9E%85.md)  
+- [018. Error Type](https://github.com/technical-learn-room/go-learn/blob/main/018.%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81.md)  
