@@ -34,3 +34,8 @@ func main() {
 - [021. recover](https://github.com/technical-learn-room/go-learn/blob/main/document/021.%20recover.md)  
 - [022. Goroutine](https://github.com/technical-learn-room/go-learn/blob/main/document/022.%20Goroutine.md)  
 - [023. Channel Type](https://github.com/technical-learn-room/go-learn/blob/main/document/023.%20Channel%20Type.md)  
+
+### Reference  
+- [참조1](https://www.tutorialspoint.com/go/index.htm)  
+- [참조2](http://golang.site/go/article/20-Go-defer%EC%99%80-panic)  
+- [참조3](https://hamait.tistory.com/1017)  
