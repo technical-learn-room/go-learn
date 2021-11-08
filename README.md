@@ -29,3 +29,8 @@ func main() {
 - [016. Casting](https://github.com/technical-learn-room/go-learn/blob/main/document/016.%20Casting.md)  
 - [017. Interface Type](https://github.com/technical-learn-room/go-learn/blob/main/document/017.%20Interface%20Type.md)  
 - [018. Error Type](https://github.com/technical-learn-room/go-learn/blob/main/document/018.%20Error%20Type.md)  
+- [019. defer](https://github.com/technical-learn-room/go-learn/blob/main/document/019.%20defer.md)  
+- [020. panic](https://github.com/technical-learn-room/go-learn/blob/main/document/020.%20panic.md)  
+- [021. recover](https://github.com/technical-learn-room/go-learn/blob/main/document/021.%20recover.md)  
+- [022. Goroutine](https://github.com/technical-learn-room/go-learn/blob/main/document/022.%20Goroutine.md)  
+- [023. Channel Type](https://github.com/technical-learn-room/go-learn/blob/main/document/023.%20Channel%20Type.md)  
